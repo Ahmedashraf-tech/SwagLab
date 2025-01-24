@@ -38,7 +38,7 @@ SwagLabs is an Ecommerce application that provides various ecommerce services an
 To set up SwagLabs application locally, follow these steps:
 
 1. Clone the repository:
-*   git clone [https://github.com/fatema-2025/SwagLabs](https://github.com/Ahmedashraf-tech/SwagLab/)
+*   git clone [https://github.com/Ahmedashraf-tech/SwagLab/]
 2. Navigate to the project directory:
 *   cd SwagLabs
 3. Install dependencies:
